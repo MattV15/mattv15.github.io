@@ -1,6 +1,6 @@
 AUTHOR = 'Matthew Van Duyn'
 SITENAME = 'Personal Site'
-SITEURL = ""
+SITEURL = "https://mattv15.github.io/"
 
 PATH = "content"
 
